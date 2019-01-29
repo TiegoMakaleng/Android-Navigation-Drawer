@@ -1,1 +1,1 @@
-This application demonstrates a clipped Navigation Drawer.
+#### This project demonstrates usage of a Navigation Drawer.
